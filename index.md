@@ -17,6 +17,18 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
+</head>
+
+<body>
+Content of the document......
+</body>
+
+</html>
 
 1. Numbered
 2. List
